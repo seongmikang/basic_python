@@ -1,0 +1,258 @@
+Country Name,Country Code,Series Name,Series Code,2023 [YR2023]
+Sweden,SWE,GDP per capita (current US$),NY.GDP.PCAP.CD,55516.836477474
+Sweden,SWE,GDP (current US$),NY.GDP.MKTP.CD,584960475767.32
+Sweden,SWE,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.310670184725893
+Sweden,SWE,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-0.780807367826782
+Sweden,SWE,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-38.0604446280095
+Sweden,SWE,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,35.3922
+Sweden,SWE,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,3.35896707790497
+World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,13169.5982250474
+World,WLD,GDP (current US$),NY.GDP.MKTP.CD,106171667873321
+World,WLD,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.83350870346007
+World,WLD,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.91645642082212
+World,WLD,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,71.5723923050352
+World,WLD,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,39023.937038738
+World,WLD,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,4.67810231680902
+East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,12908.6377076783
+East Asia & Pacific,EAS,GDP (current US$),NY.GDP.MKTP.CD,30780176881541.3
+East Asia & Pacific,EAS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.10414562460986
+East Asia & Pacific,EAS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,3.89391207284761
+East Asia & Pacific,EAS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,261.500100744567
+East Asia & Pacific,EAS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,17247.0863
+East Asia & Pacific,EAS,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,7.30471261326517
+East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,9900.61356517593
+East Asia & Pacific (excluding high income),EAP,GDP (current US$),NY.GDP.MKTP.CD,21162836277192.4
+East Asia & Pacific (excluding high income),EAP,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.10744885870969
+East Asia & Pacific (excluding high income),EAP,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,4.91236478739438
+East Asia & Pacific (excluding high income),EAP,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,414.950831959008
+East Asia & Pacific (excluding high income),EAP,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,15206.0032
+East Asia & Pacific (excluding high income),EAP,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,7.11382725746821
+Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,29789.15402951
+Europe & Central Asia,ECS,GDP (current US$),NY.GDP.MKTP.CD,27554069781140.1
+Europe & Central Asia,ECS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.01614432883042
+Europe & Central Asia,ECS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.0615178361892
+Europe & Central Asia,ECS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-28.3049791910132
+Europe & Central Asia,ECS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,6165.4863
+Europe & Central Asia,ECS,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,6.73434474441377
+Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,8548.0103775697
+Europe & Central Asia (excluding high income),ECA,GDP (current US$),NY.GDP.MKTP.CD,2129704371516.14
+Europe & Central Asia (excluding high income),ECA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.04254617779993
+Europe & Central Asia (excluding high income),ECA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,5.75414531846701
+Europe & Central Asia (excluding high income),ECA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-28.9439151463016
+Europe & Central Asia (excluding high income),ECA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,1200.8516
+Europe & Central Asia (excluding high income),ECA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,5.00041303269173
+South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2303.30291008899
+South Asia,SAS,GDP (current US$),NY.GDP.MKTP.CD,4494987381110.1
+South Asia,SAS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,6.77854269975873
+South Asia,SAS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,5.72523691087569
+South Asia,SAS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,383.252639140927
+South Asia,SAS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,3332.5073
+South Asia,SAS,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,1.70762965748019
+Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,10796.8623721014
+Latin America & Caribbean,LCN,GDP (current US$),NY.GDP.MKTP.CD,7100142198622.08
+Latin America & Caribbean,LCN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.08842613019844
+Latin America & Caribbean,LCN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.38877680409384
+Latin America & Caribbean,LCN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,81.249577899895
+Latin America & Caribbean,LCN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,1749.803
+Latin America & Caribbean,LCN,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2.66172848579041
+Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,10180.7055245454
+Latin America & Caribbean (excluding high income),LAC,GDP (current US$),NY.GDP.MKTP.CD,6057469575864.84
+Latin America & Caribbean (excluding high income),LAC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.07213292803164
+Latin America & Caribbean (excluding high income),LAC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.34055598746268
+Latin America & Caribbean (excluding high income),LAC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,91.5726866627363
+Latin America & Caribbean (excluding high income),LAC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,1509.3466
+Latin America & Caribbean (excluding high income),LAC,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2.53673800200307
+Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,1622.80705094435
+Sub-Saharan Africa,SSF,GDP (current US$),NY.GDP.MKTP.CD,2044578421949.78
+Sub-Saharan Africa,SSF,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.79926945385927
+Sub-Saharan Africa,SSF,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,0.294870479395669
+Sub-Saharan Africa,SSF,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,71.5244742051392
+Sub-Saharan Africa,SSF,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,825.5063
+Sub-Saharan Africa,SSF,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,0.661241389217938
+Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,1621.26148130945
+Sub-Saharan Africa (excluding high income),SSA,GDP (current US$),NY.GDP.MKTP.CD,2042436971778.64
+Sub-Saharan Africa (excluding high income),SSA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.79890609439795
+Sub-Saharan Africa (excluding high income),SSA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,0.294269300811493
+Sub-Saharan Africa (excluding high income),SSA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,71.361884465356
+Sub-Saharan Africa (excluding high income),SSA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,824.269
+Sub-Saharan Africa (excluding high income),SSA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,0.660313645989774
+Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,8499.84306394222
+Middle East & North Africa,MEA,GDP (current US$),NY.GDP.MKTP.CD,4320566779119.19
+Middle East & North Africa,MEA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.97724704424243
+Middle East & North Africa,MEA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-0.077319658080242
+Middle East & North Africa,MEA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,217.492680580306
+Middle East & North Africa,MEA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,2904.0738
+Middle East & North Africa,MEA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,5.77183600999269
+Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,3797.10418034163
+Middle East & North Africa (excluding high income),MNA,GDP (current US$),NY.GDP.MKTP.CD,1671174615296.29
+Middle East & North Africa (excluding high income),MNA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.15107695991034
+Middle East & North Africa (excluding high income),MNA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.30211207804565
+Middle East & North Africa (excluding high income),MNA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,188.829442391108
+Middle East & North Africa (excluding high income),MNA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,1642.1681
+Middle East & North Africa (excluding high income),MNA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,3.775512095445
+High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,48752.7127374395
+High income,HIC,GDP (current US$),NY.GDP.MKTP.CD,68276492853979.9
+High income,HIC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.77998069266845
+High income,HIC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.24007608961456
+High income,HIC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-6.11683044723995
+High income,HIC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,13682.1238
+High income,HIC,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,9.94030678200187
+Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,900.963258115437
+Low income,LIC,GDP (current US$),NY.GDP.MKTP.CD,663529162731.73
+Low income,LIC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.23905392962553
+Low income,LIC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-0.481977255132946
+Low income,LIC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,5.82251376070007
+Low income,LIC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,207.3662
+Low income,LIC,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,0.286029043430522
+Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,6254.08764955685
+Middle income,MIC,GDP (current US$),NY.GDP.MKTP.CD,36878123654872.8
+Middle income,MIC,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.64482706320206
+Middle income,MIC,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,3.85019009899072
+Middle income,MIC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,237.077714721292
+Middle income,MIC,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,23507.7796
+Middle income,MIC,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,3.99623503259569
+European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,41422.7999680879
+European Union,EUU,GDP (current US$),NY.GDP.MKTP.CD,18590720056635.3
+European Union,EUU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.427838269445104
+European Union,EUU,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,0.213732432428941
+European Union,EUU,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-34.0612802438112
+European Union,EUU,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,2512.068
+European Union,EUU,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,5.5972490550787
+United Kingdom,GBR,GDP per capita (current US$),NY.GDP.PCAP.CD,49463.8554617343
+United Kingdom,GBR,GDP (current US$),NY.GDP.MKTP.CD,3380854520809.54
+United Kingdom,GBR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.339966158003463
+United Kingdom,GBR,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-0.480663557904705
+United Kingdom,GBR,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-48.1233246730054
+United Kingdom,GBR,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,302.1033
+United Kingdom,GBR,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,4.41994586686174
+United States,USA,GDP per capita (current US$),NY.GDP.PCAP.CD,82769.4122114216
+United States,USA,GDP (current US$),NY.GDP.MKTP.CD,27720709000000
+United States,USA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.88755600906016
+United States,USA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2.38266938077211
+United States,USA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-6.05502757378115
+United States,USA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,4682.0394
+United States,USA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,13.9797885071669
+China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,12614.0617416421
+China,CHN,GDP (current US$),NY.GDP.MKTP.CD,17794783039552
+China,CHN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.24955786387791
+China,CHN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,5.35885786336085
+China,CHN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,449.217161987604
+China,CHN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,13259.639
+China,CHN,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,9.39926632688504
+India,IND,GDP per capita (current US$),NY.GDP.PCAP.CD,2480.79208721621
+India,IND,GDP (current US$),NY.GDP.MKTP.CD,3567551674623.01
+India,IND,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,8.1529363109041
+India,IND,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,7.20183939103345
+India,IND,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,391.966735437889
+India,IND,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,2955.1817
+India,IND,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2.05496431342395
+Indonesia,IDN,GDP per capita (current US$),NY.GDP.PCAP.CD,4876.31432703188
+Indonesia,IDN,GDP (current US$),NY.GDP.MKTP.CD,1371171152331.16
+Indonesia,IDN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.04810577067288
+Indonesia,IDN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,4.16662016188742
+Indonesia,IDN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,316.951047792595
+Indonesia,IDN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,674.5359
+Indonesia,IDN,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2.39886105222913
+Japan,JPN,GDP per capita (current US$),NY.GDP.PCAP.CD,33766.5268253808
+Japan,JPN,GDP (current US$),NY.GDP.MKTP.CD,4204494802431.55
+Japan,JPN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.67901952310368
+Japan,JPN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2.17578291223812
+Japan,JPN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-19.0315897765875
+Japan,JPN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,944.7586
+Japan,JPN,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,7.58740778843633
+Germany,DEU,GDP per capita (current US$),NY.GDP.PCAP.CD,54343.2265084958
+Germany,DEU,GDP (current US$),NY.GDP.MKTP.CD,4525703903627.53
+Germany,DEU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-0.266438410090913
+Germany,DEU,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,0.353884463349871
+Germany,DEU,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-42.4548454362134
+Germany,DEU,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,582.9506
+Germany,DEU,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,6.99988712776177
+France,FRA,GDP per capita (current US$),NY.GDP.PCAP.CD,44690.9345395117
+France,FRA,GDP (current US$),NY.GDP.MKTP.CD,3051831611384.76
+France,FRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.936487502671483
+France,FRA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,0.607649186397026
+France,FRA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-26.6939980066031
+France,FRA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,282.4275
+France,FRA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,4.13586020525254
+Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,53431.1857063879
+Canada,CAN,GDP (current US$),NY.GDP.MKTP.CD,2142470914401.36
+Canada,CAN,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.24892730403391
+Canada,CAN,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-1.67686294923784
+Canada,CAN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,30.5435287744852
+Canada,CAN,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,575.012
+Canada,CAN,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,14.3402520654457
+Brazil,BRA,GDP per capita (current US$),NY.GDP.PCAP.CD,10294.866680778
+Brazil,BRA,GDP (current US$),NY.GDP.MKTP.CD,2173665655937.27
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.90848048667777
+Brazil,BRA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2.50184181305286
+Brazil,BRA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,111.333549292733
+Brazil,BRA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,479.5042
+Brazil,BRA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2.27101707127288
+Russian Federation,RUS,GDP per capita (current US$),NY.GDP.PCAP.CD,13817.0458984375
+Russian Federation,RUS,GDP (current US$),NY.GDP.MKTP.CD,2021421476035.42
+Russian Federation,RUS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.60000000000001
+Russian Federation,RUS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,3.89361804941169
+Russian Federation,RUS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,-15.0541124688211
+Russian Federation,RUS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,2069.502
+Russian Federation,RUS,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,14.3889152826402
+"Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,33121.3712885508
+"Korea, Rep.",KOR,GDP (current US$),NY.GDP.MKTP.CD,1712792854202.37
+"Korea, Rep.",KOR,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.35673324311098
+"Korea, Rep.",KOR,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,1.2782352431086
+"Korea, Rep.",KOR,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,110.762862624608
+"Korea, Rep.",KOR,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,573.5357
+"Korea, Rep.",KOR,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,11.0908267863981
+Australia,AUS,GDP per capita (current US$),NY.GDP.PCAP.CD,64820.9117890026
+Australia,AUS,GDP (current US$),NY.GDP.MKTP.CD,1728057316695.61
+Australia,AUS,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.44199220009025
+Australia,AUS,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,0.941014568468177
+Australia,AUS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,34.5336162640257
+Australia,AUS,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,373.6164
+Australia,AUS,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,14.0146715466792
+Mexico,MEX,GDP per capita (current US$),NY.GDP.PCAP.CD,13790.0243428344
+Mexico,MEX,GDP (current US$),NY.GDP.MKTP.CD,1789114434843.46
+Mexico,MEX,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.19998116598492
+Mexico,MEX,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2.30380690084846
+Mexico,MEX,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,68.1625994928476
+Mexico,MEX,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,487.0939
+Mexico,MEX,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,3.75439189770655
+Nigeria,NGA,GDP per capita (current US$),NY.GDP.PCAP.CD,1596.63696129001
+Nigeria,NGA,GDP (current US$),NY.GDP.MKTP.CD,363846332834.618
+Nigeria,NGA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.86021499108364
+Nigeria,NGA,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,0.724295703712912
+Nigeria,NGA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,70.3452260965312
+Nigeria,NGA,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,127.9417
+Nigeria,NGA,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,0.561436047791993
+South Africa,ZAF,GDP per capita (current US$),NY.GDP.PCAP.CD,6022.5425418935
+South Africa,ZAF,GDP (current US$),NY.GDP.MKTP.CD,380699271814.508
+South Africa,ZAF,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,0.698485194788034
+South Africa,ZAF,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-0.630050658120766
+South Africa,ZAF,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,26.4593216622607
+South Africa,ZAF,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,397.373
+South Africa,ZAF,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,6.28631566877781
+"Egypt, Arab Rep.",EGY,GDP per capita (current US$),NY.GDP.PCAP.CD,3457.45691570455
+"Egypt, Arab Rep.",EGY,GDP (current US$),NY.GDP.MKTP.CD,396002496996.96
+"Egypt, Arab Rep.",EGY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,3.75870055176806
+"Egypt, Arab Rep.",EGY,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,2.0216049044848
+"Egypt, Arab Rep.",EGY,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,172.491199540114
+"Egypt, Arab Rep.",EGY,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,249.3319
+"Egypt, Arab Rep.",EGY,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,2.17689107644029
+Argentina,ARG,GDP per capita (current US$),NY.GDP.PCAP.CD,14187.4827252965
+Argentina,ARG,GDP (current US$),NY.GDP.MKTP.CD,646075277525.125
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-1.61100162090189
+Argentina,ARG,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,-1.89294979737558
+Argentina,ARG,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,83.4342772957931
+Argentina,ARG,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,183.7784
+Argentina,ARG,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,4.03567968932418
+Viet Nam,VNM,GDP per capita (current US$),NY.GDP.PCAP.CD,4282.08851724506
+Viet Nam,VNM,GDP (current US$),NY.GDP.MKTP.CD,429716969043.572
+Viet Nam,VNM,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.0464307361882
+Viet Nam,VNM,GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,4.34348081998421
+Viet Nam,VNM,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),EN.GHG.CO2.ZG.AR5,1712.76156220381
+Viet Nam,VNM,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),EN.GHG.CO2.MT.CE.AR5,372.9485
+Viet Nam,VNM,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),EN.GHG.CO2.PC.CE.AR5,3.71639615007114
+,,,,
+,,,,
+,,,,
+Data from database: World Development Indicators,,,,
+Last Updated: 06/05/2025,,,,
