@@ -70,3 +70,75 @@ ax.tick_params(labelsize = 10)
 plt.legend(fontsize = 5 , markerscale = 0.6)
 plt.xticks(rotation=45)
 plt.show()
+
+#국가별 분석 출력
+for name, co2, gdp in zip(country_names_list, co2_values, gdp_values):
+    trend = "증가" if co2 > 0 else "감소"
+    print(f"{name}: CO₂ 배출량은 {trend}했고, GDP 성장률은 {gdp}%였습니다.")
+
+
+#LLM
+import requests
+import json
+
+API_KEY = "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"  
+
+url = "https://openrouter.ai/api/v1/chat/completions"
+headers = {
+    "Authorization": f"Bearer {API_KEY}",
+    "Content-Type": "application/json",
+}
+
+# 대화 내용 정자하는 message 리스트 생성하기
+messages = [
+    {"role": "system", "content": "너는 데이터 분석을 도울 수 있는 AI 모델이야. 사용자 질문에 대한 분석과 인사이트를 제공해."}
+]
+
+#사용자 메시지를 이용한 llm과의 대화
+def chat_with_llm(user_input):
+  
+    messages.append({"role": "user", "content": user_input})
+
+    try:
+        response = requests.post(url, headers=headers, data=json.dumps({
+            "model": "meta-llama/llama-3.3-8b-instruct:free",
+            "messages": messages,
+        }))
+        
+        if response.status_code == 200:
+            res_dict = response.json()
+            reply = res_dict['choices'][0]['message']['content']
+            messages.append({"role": "assistant", "content": reply})
+            return reply
+        else:
+            return f"Error: {response.status_code} - {response.text}"
+    
+    except requests.exceptions.RequestException as e:
+        return f"Request Error: {e}"
+
+# 대화 시작
+print("LLM과 대화를 시작합니다. 'exit'을 입력하면 종료됩니다.")
+
+while True:
+    user_input = input("메세지를 입력하세요요: ").strip().lower()
+    if user_input == "exit":
+        print("대화를 종료합니다.")
+        break
+    
+    response_text = chat_with_llm(user_input)
+    print(response_text)
+
+#선형 회귀 방정식_과거 데이터를 통한 미래 예측
+from sklearn.linear_model import LinearRegression
+import numpy as np
+
+# 선형 회귀 학습
+model = LinearRegression()
+model.fit(np.array(co2_values).reshape(-1, 1), gdp_values)
+
+# 회귀선 그리기-일반적인 회귀모델 사용
+x_line = np.linspace(min(co2_values), max(co2_values), 100)
+y_line = model.predict(x_line.reshape(-1, 1))
+ax.plot(x_line, y_line, color='gray', linestyle='--', label='회귀선')
+
+print(f"회귀식: GDP = {model.coef_[0]:.2f} * CO2 + {model.intercept_:.2f}")
